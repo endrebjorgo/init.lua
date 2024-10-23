@@ -1,5 +1,5 @@
 return {
-    'aktersnurra/no-clown-fiesta.nvim',
+    "aktersnurra/no-clown-fiesta.nvim",
     name = "no-clown-fiesta",
     config = function()
         vim.cmd('colorscheme no-clown-fiesta')
