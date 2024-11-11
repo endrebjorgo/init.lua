@@ -10,3 +10,5 @@ vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 vim.keymap.set("n", "<leader>lt", "i<'a><Esc>")
 vim.keymap.set("n", "<leader>lr", "i&'a<Esc>")
 
+
+-- Just testing the automatic pull
