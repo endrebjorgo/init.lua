@@ -8,3 +8,5 @@ vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 
 -- Rust lifetime specifier
 vim.keymap.set("n", "<leader>lt", "i<'a><Esc>")
+vim.keymap.set("n", "<leader>lr", "i&'a<Esc>")
+
